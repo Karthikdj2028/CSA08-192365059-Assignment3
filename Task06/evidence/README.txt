@@ -1,0 +1,1 @@
+Save q6_sample_timetable_query.png and q6_index_benchmark_and_memory.png here.
