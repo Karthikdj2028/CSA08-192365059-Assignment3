@@ -1,0 +1,2 @@
+# Task07 – Contact merging
+Run: `python Task07/contact_merge.py`. The program normalises names, phone numbers and email values, merges by a dictionary index, tests duplicates, missing fields and same-name different people, and benchmarks 1,000 / 100,000 contacts. It writes `contact_benchmark.csv`. The 100,000-contact pairwise value is explicitly an extrapolation because it would require nearly five billion comparisons.
