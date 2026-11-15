@@ -1,0 +1,1 @@
+Save q2_grid_aliasing_and_copying.png and q2_tuple_memory_and_timing.png here.
